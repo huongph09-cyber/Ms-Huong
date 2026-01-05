@@ -1,0 +1,7 @@
+{
+  "name": "Roar & Read: Dinosaur English",
+  "description": "A fun, interactive English word reading practice app for children aged 6–10. Practice pronunciation with dinosaur-themed words, record your voice, and earn stars and badges!",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
